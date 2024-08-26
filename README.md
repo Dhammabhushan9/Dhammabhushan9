@@ -20,43 +20,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📚 Projects
-### [Content Posting Web]
-Developed a web application for posting content with:
-- **Frontend:** JavaScript for a seamless user experience.
-- **Backend:** Node.js and Express.js for managing API integrations and database operations.
-- **Database:** MongoDB for managing product information.
-
-### [Hostel Finder Web Application]
-Created a web application for finding hostels with:
-- **Frontend:** JavaScript for an interactive and responsive interface.
-- **Backend:** Node.js and Express.js for API integration and database operations.
-- **Database:** MongoDB for storing and managing product information.
-
-# 🛠️ Experience
-### Skyscanner (Jul 2024 - Aug 2024)
-- Built a web application using React.
-- Developed a page for picking travel dates using Skyscanner’s open-source Backpack React library.
-- Customized the application and ran automated tests to ensure proper rendering.
-
-# 🎓 Education
-**Computer Engineering | Datta Meghe College of Engineering**
-- Semester 6 / SGPA: 9.09
-- Developed web applications using EJS, JavaScript, HTML, CSS, and SQL.
-- Streamlined project workflows, enhancing efficiency by 25%.
-- Collaborated with teams to design and implement features, reducing delivery time by 25%.
 
 # 📫 How to reach me
-- **Email:** dhammabhushan.waghmare9@gmail.com
-- **Phone:** +91 7722035014
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Portfolio:** [Your Portfolio]
+- **Email:** bhushan.work9@gmail.com
+- **LinkedIn:** www.linkedin.com/in/dhammabhushan-waghmare-373725232
+- **Portfolio:** https://cob56dhammabhushan.wixsite.com/tech-student-portf-2
 
-# ⚡ Fun Fact
-- Enjoy exploring new technologies and am an avid reader of sci-fi novels.
 
-# 😄 Pronouns
-- He/Him
-
-Thanks for visiting my profile! 😊
