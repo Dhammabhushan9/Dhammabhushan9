@@ -24,6 +24,6 @@
 # 📫 How to reach me
 - **Email:** bhushan.work9@gmail.com
 - **LinkedIn:** www.linkedin.com/in/dhammabhushan-waghmare-373725232
-- **Portfolio:** https://cob56dhammabhushan.wixsite.com/tech-student-portf-2
+- **Portfolio:**[ https://cob56dhammabhushan.wixsite.com/tech-student-portf-2](https://vercel.com/dhammabhushan9s-projects/portfolio/FC6DoumSZQiziCXTZryUzM3Gbz2L)
 
 
